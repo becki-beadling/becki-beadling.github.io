@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Becki Beadling"
-  avatar : "https://github.com/becki-beadling/becki-beadling.github.io/blob/master/Beadling.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   #bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
 #    - label: "Temple Department of Earth and Environmental Science"
